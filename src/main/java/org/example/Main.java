@@ -13,7 +13,7 @@ public class Main {
         System.out.println("hello git4");
         System.out.println("hello push");
         System.out.println("push testddd");
-        System.out.println("pull testddd");
+        System.out.println("pull testddd合格更好防火防盗发挥发挥");
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
